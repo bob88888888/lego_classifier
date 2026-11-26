@@ -1,0 +1,15 @@
+class name,Number of files in the class,class ID
+flat tile corner 2x2,800,0
+roof tile 1x2,800,1
+beam 1M,800,2
+brick corner 1x2x2,800,3
+plate corner 2x2,800,4
+Peg with friction,800,5
+flat tile round 2x2,800,6
+brick 2x4,800,7
+brick 2x3,800,8
+brick 2x2,800,9
+brick 1x2,800,10
+brick 1x1,800,11
+brick 1x4,800,12
+plate 2x4,310,13
