@@ -1,2 +1,2 @@
 # lego_classifier
-A lego brick classifier that classifies 14 types of lego brick
+A lego brick classifier that classifies 14 types of lego bricks. I had tried and experimented it with my own CNN model, ResNet18, ResNet50, EfficientNetB0 and EfficientNetB2. Out of them all. EfficientNetB2 performs the best and reached up to about 75% accuracy. After that, I had done some fine-tuning with the model and got a further 85% accuracy in average. The main goal of the project is to see and findout how good/best light-weight model for predicting lego bricks so it can be used on a Edge device like a Raspberry Pi
